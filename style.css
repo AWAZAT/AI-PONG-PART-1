@@ -1,0 +1,20 @@
+.in
+{
+    float: right;
+}
+
+h3
+{
+    background-color: aqua;
+    font-size: medium;
+    float: left;
+}
+
+.dna
+{
+    background-color: aqua;
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+    height: 10%;
+}
